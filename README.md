@@ -13,7 +13,7 @@ A simple and intuitive Todo App built with React, allowing you to manage your ta
 - Responsive design for seamless usage on different devices.
 - Persistent storage of tasks using local storage.
 
-## Live Demo: [Visit Site](https://todo-app-project.netlify.app/)
+## Live Demo: [Visit Site](https://todolist-application-reactjs.netlify.app/)
 
 ## Technologies Used
 
